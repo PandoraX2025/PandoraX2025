@@ -6,39 +6,69 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="167" src="https://cdn.discordapp.com/attachments/1380559512888414310/1472243522471202887/20260126_180434.jpg?ex=69991d60&is=6997cbe0&hm=0fe184ecdc4fa2170612d3910617305557593e1b6273654a1046b3ee247a68b2&"  />
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1380559512888414310/1472243522471202887/20260126_180434.jpg" width="200" style="border-radius: 50%;" />
+
+  <h1>Hey there, I'm Kevin 👋</h1>
+  
+  <p align="center">
+    <strong>Founder of Team .EXE | Fullstack Developer in Training | Tech Enthusiast</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://ktriebe.xyz">🌐 Personal Website</a> •
+    <a href="https://discord.gg/punktexe">💬 Community</a> •
+    <a href="https://www.youtube.com/@frozendistructyj4x">🎥 YouTube</a>
+  </p>
 </div>
 
-###
+---
 
-<h1 align="left">Hey there, I am Kevin👋</h1>
+### 🚀 Über mich
 
-###
+Ich bin Kevin, der Kopf hinter **Team .EXE**. Aktuell absolviere ich eine 12-monatige Intensiv-Weiterbildung zum **Fullstack-Entwickler** an der **Developer Akademie**. Mein Ziel ist es, moderne Web-Lösungen zu bauen, die nicht nur funktionieren, sondern auch verdammt gut aussehen.
 
+* 🔭 **Aktuelles Projekt:** Ausbau meiner Web-Präsenz auf [ktriebe.xyz](https://ktriebe.xyz).
+* 🎓 **Lernphase:** 12 Monate Fullstack-Fokus (HTML, CSS, JavaScript, React, Backend).
+* 🛠️ **Erfahrung:** Sicherer Umgang mit Lua und 3D-Modellierung in Blender.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Web Development (Current Focus)
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="36" alt="lua logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
 </div>
 
-###
+#### Scripting & Design (Experienced)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender" />
+</div>
 
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_NAME&show_icons=true&theme=tokyonight" alt="Kevin's GitHub Stats" />
+</p>
+
+---
+
+### 📱 Connect with me
 <div align="left">
   <a href="https://discord.gg/punktexe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" />
   </a>
   <a href="https://www.youtube.com/@frozendistructyj4x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube" />
   </a>
   <a href="https://www.instagram.com/kev.2.0.exe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram" />
   </a>
 </div>
 
