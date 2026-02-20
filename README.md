@@ -54,8 +54,8 @@ Ich bin Kevin, Gründer von **Team .EXE**. Momentan befinde ich mich in einer 12
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_NUTZERNAME&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_NUTZERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinTriebeDev&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriebeDev&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
