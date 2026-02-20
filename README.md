@@ -7,34 +7,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1380559512888414310/1472243522471202887/20260126_180434.jpg" width="200" style="border-radius: 50%;" />
-
-  <h1>Hey there, I'm Kevin 👋</h1>
-  
-  <p align="center">
-    <strong>Founder of Team .EXE | Fullstack Developer in Training | Tech Enthusiast</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://ktriebe.xyz">🌐 Personal Website</a> •
-    <a href="https://discord.gg/punktexe">💬 Community</a> •
-    <a href="https://www.youtube.com/@frozendistructyj4x">🎥 YouTube</a>
-  </p>
-</div>
-
----
-
-### 🚀 Über mich
-
-Ich bin Kevin, der Kopf hinter **Team .EXE**. Aktuell absolviere ich eine 12-monatige Intensiv-Weiterbildung zum **Fullstack-Entwickler** an der **Developer Akademie**. Mein Ziel ist es, moderne Web-Lösungen zu bauen, die nicht nur funktionieren, sondern auch verdammt gut aussehen.
-
-* 🔭 **Aktuelles Projekt:** Ausbau meiner Web-Präsenz auf [ktriebe.xyz](https://ktriebe.xyz).
-* 🎓 **Lernphase:** 12 Monate Fullstack-Fokus (HTML, CSS, JavaScript, React, Backend).
-* 🛠️ **Erfahrung:** Sicherer Umgang mit Lua und 3D-Modellierung in Blender.
-
----
-
-<div align="center">
   <img src="./img/profillogo.png" width="200" alt="Kevin | Team .EXE" />
 
   <h1>Hey there, I'm Kevin 👋</h1>
