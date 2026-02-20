@@ -17,20 +17,19 @@
 
   <p align="center">
     <a href="https://ktriebe.xyz">🌐 Personal Website</a> •
-    <a href="https://discord.gg/punktexe">💬 Community</a> •
-    <a href="https://www.youtube.com/@frozendistructyj4x">🎥 YouTube</a>
   </p>
 </div>
 
 ---
 
-### 🚀 Über mich
+### 🚀 About Me
 
-Ich bin Kevin, Gründer von **Team .EXE**. Momentan befinde ich mich in einer 12-monatigen Ausbildung zum **Fullstack-Entwickler** an der **Developer Akademie**, um meine Skills in der Webentwicklung auf das nächste Level zu heben.
+I am Kevin, the founder of **Team .EXE**. Currently, I am a full-stack development student at the **Developer Akademie**, where I am undergoing an intensive 12-month training program to master modern web technologies. My goal is to create high-performance web applications and push the boundaries of digital experiences.
 
-* 🔭 **Aktuelles Projekt:** Optimierung von [ktriebe.xyz](https://ktriebe.xyz) und Aufbau von Team .EXE.
-* 🎓 **Lernphase:** Intensiver Fokus auf das MERN-Stack (oder ähnliche Web-Technologien).
-* 🛠️ **Expertise:** Ich habe bereits fundierte Erfahrung mit **Lua** und **Blender** (3D-Modellierung).
+* 🔭 **Current Focus:** Developing [ktriebe.xyz](https://ktriebe.xyz) and growing the Team .EXE community.
+* 🎓 **Education:** 12-month Full-stack boot camp (HTML, CSS, JavaScript, React, Backend).
+* 🛠️ **Background:** Proficient in **Lua** scripting and 3D modeling with **Blender**.
+* ⚡ **Fun Fact:** When I'm not coding, I'm likely managing my team or working on 3D designs.
 
 ---
 
@@ -49,16 +48,6 @@ Ich bin Kevin, Gründer von **Team .EXE**. Momentan befinde ich mich in einer 12
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender" />
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinTriebeDev&show_icons=true&theme=tokyonight" alt="Kevin's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriebeDev&layout=compact&theme=tokyonight" alt="Kevin's Top Langs" />
-</p>
 
 ---
 
